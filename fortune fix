@@ -1,0 +1,3 @@
+cd /usr/local/Cellar/fortune/9708/share/games/fortunes
+touch off
+strfile off off.dat
